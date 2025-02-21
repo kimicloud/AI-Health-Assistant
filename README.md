@@ -49,8 +49,3 @@ An AI-powered healthcare assistant designed to provide instant medical insights,
    - Ask any health-related question.  
    - Get AI-powered answers instantly.  
 
-## **Installation & Setup ⚙️**  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/yourusername/HealthAI-Assistant.git
-   cd HealthAI-Assistant
