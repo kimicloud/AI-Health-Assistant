@@ -1,4 +1,4 @@
-<img width="1710" alt="Screenshot 2025-02-15 at 12 33 56 AM" src="https://github.com/user-attachments/assets/08742107-1ca6-49e4-afe3-cf99e1e1abe3" /># **HealthAI Assistant 🏥**  
+# **HealthAI Assistant 🏥**  
 An AI-powered healthcare assistant designed to provide instant medical insights, symptom analysis, and personalized health recommendations using Google's Gemini AI. With multilingual support, it ensures global accessibility and ease of use. 🌍  
 
 ## **Key Features ✨**  
